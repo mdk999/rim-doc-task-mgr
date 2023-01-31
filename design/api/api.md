@@ -8,8 +8,8 @@
 - [documents](document.md)
 - [tasks](task.md)
 - [tokens](token.md)
-- [login](#)
-- [logout](#)
+- [login](login.md)
+- [logout](logout.md)
 - [upload](upload.md)
 - [download](download.md)
 
