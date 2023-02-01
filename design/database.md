@@ -6,5 +6,6 @@
 
 #### Database Diagram
 
-![Database Diagram](./images/database_tables_1.png)
+![Database Diagram 1](./images/database_tables_1.png)
+![Database Diagram 2](./images/database_tables_2.png)
 

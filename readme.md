@@ -19,6 +19,7 @@ Rimsys Document Management Project
       - ###### [User](design/api/user.md) 
       - ###### [Document](design/api/document.md) 
       - ###### [Task](design/api/task.md) 
+    - #### [Database](design/database.md)
     - #### [Schemas](design/schemas/schemas.md)
       - ###### [User](design/schemas/users.md) 
       - ###### [Document](design/schemas/documents.md)
